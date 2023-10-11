@@ -13,9 +13,9 @@
 
     ![github-clone-repo](./just-ignore/images/github/github-clone-repo.png)
 
-* Navegue até a Raiz do seu disco local C ("C:/"), e pressione o botão SHIFT do seu teclado e ao mesmo tempo clique com o botão direto do mouse em um espaço vazio da janelinha.
+* Navegue até a Raiz do seu disco local C ("C:/"), e pressione o botão SHIFT do seu teclado e ao mesmo tempo clique com o botão direto do mouse em um espaço vazio da janelinha, isso abrirá um menu do windows, neste menu clique em "Abrir janela do PowerShell aqui" ( se for cmd, da no mesmo. ).
 
-* Irá abrir um menu do windows, neste menu clique em "Abrir janela do PowerShell aqui" ( se for cmd, da no mesmo. )
+    ![github-clone-repo](./just-ignore/images/github/github-clone-to-c.png)
 
 * Na tela do powershell, confirme que está no diretorio correto, caso esteja digite o comando "git clone" seguido da url que você copiou nos passos anteriores.
 
