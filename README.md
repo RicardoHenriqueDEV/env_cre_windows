@@ -71,7 +71,7 @@
 ## Configuração do Hosts
 
 > [!NOTE]  
-> **A adição dos dominios no arquivo hosts se faz necessaria, porque nao temos acesso aos DNS's do cliente, pela VPN da CBYK, logo para que o dominio seja resolvido para um ip, precisamos adicioná-lo ao arquivo hosts local.**
+> **A adição dos dominios no arquivo hosts se faz necessaria, porque nao temos acesso aos DNS's do cliente pela VPN da CBYK, logo, para que o dominio seja resolvido para um ip, precisamos adicioná-lo ao arquivo hosts local.**
 
 * Navegue ate a pasta "C:\Windows\System32\drivers\etc".
 * Nessa pasta selecione o arquivo "hosts" e abra com seu editor preferido em modo administrador.
