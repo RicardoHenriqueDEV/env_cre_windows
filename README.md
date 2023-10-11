@@ -22,8 +22,6 @@
 
 * Pressione enter pra rodar o comando, que clonará o repositório para o seu Disco Local C.
 
-    ****
-
     > [!WARNING]  
     > O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referências a partir daqui não funcionarão!
 
