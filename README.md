@@ -23,7 +23,7 @@
 * Pressione enter pra rodar o comando, que clonará o repositório para o seu Disco Local C.
 
     > [!WARNING]  
-    > O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referências a partir daqui não funcionarão!
+    > **O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referências a partir daqui não funcionarão!**
 
 ## Instalação e Configuração do OpenVPN
 * Navegue até a pasta "C:\env_cre_windows\open-vpn-gui" e abra o arquivo "OpenVPN-2.5.8.msi".
