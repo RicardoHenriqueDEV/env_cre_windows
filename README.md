@@ -1,13 +1,3 @@
-# Hello Ambiente
-
-
-## Sobre
-
-* VPN
-* Hosts
-* Visual Studio Lib's
-
-<br></br>
 ## Clonando este repositório
 * Copie o endereço deste repositório clicando no botão verde "CODE", escolha entre https ou ssh, e copie o link da caixinha abaixo.
 
