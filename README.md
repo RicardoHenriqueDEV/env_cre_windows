@@ -57,4 +57,4 @@
 * O seu arquivo hosts deverá ficar desse jeito:
 ![hosts-example](./just-ignore/images/hosts/hosts_add_config.png)
 
-* Salve o arquivo, feche e abra novamente no editor para assegurar que o conteúdo foi escrito de fato no arquivo.
+* Salve o arquivo, feche e abra novamente no editor para assegurar que o conteúdo foi, de fato, escrito no arquivo.
