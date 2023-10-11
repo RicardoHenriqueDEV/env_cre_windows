@@ -3269,3 +3269,5 @@
 127.0.0.1 - - [10/Oct/2023:16:24:01 -0300] "GET /ui/js/pipelinesTeaser.d6df6cde.js HTTP/1.1" 200 1071 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 127.0.0.1 - - [10/Oct/2023:16:24:02 -0300] "GET /ui/img/Teaser_pipelines_pic3.85836aec.png HTTP/1.1" 200 31847 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 127.0.0.1 - - [10/Oct/2023:16:24:02 -0300] "GET /ui/img/Teaser_Distribution_pic__.ab4924ca.png HTTP/1.1" 200 376319 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+127.0.0.1 - - [10/Oct/2023:23:07:14 -0300] "GET /artifactory/api/nuget/v3/nuget-virtual HTTP/1.1" 200 3698 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+127.0.0.1 - - [10/Oct/2023:23:07:15 -0300] "GET /favicon.ico HTTP/1.1" 404 30 "http://localhost:9595/artifactory/api/nuget/v3/nuget-virtual" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
