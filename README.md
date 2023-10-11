@@ -7,6 +7,22 @@
 * Hosts
 * Visual Studio Lib's
 
+## Clonando este repositório
+* Copie a o endereço deste repositório clicando no botão verde "CODE", escolha entre https e ssh, e copie o link da caixinha abaixo.
+
+    ![github-clone-repo](./just-ignore/images/github/github-clone-repo.png)
+
+* Navegue até a Raiz do seu disco local C ("C:/"), e pressione o botão SHIFT do seu teclado e ao mesmo tempo clique com o botão direto do mouse em um espaço vazio da janelinha.
+
+* Irá abrir um menu do windows, neste menu clique em "Abrir janela do PowerShell aqui" ( se for cmd, da no mesmo. )
+
+* Na tela do powershell, confirme que está no diretorio correto, caso esteja digite o comando "git clone" seguido da url que você copiou nos passos anteriores.
+
+    ![github-clone-repo](./just-ignore/images/github/github-powershell-command.png)
+
+* Pressione enter pra rodar o comando, que clonará o repositório para o seu Disco Local C.
+
+    <span style="color: red;font-weight: bold; font-size:20px;">O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referencias a partir daqui não funcionarão !</span>
 
 ## Instalação e Configuração do OpenVPN
 * Navegue até a pasta "C:\env_cre_windows\open-vpn-gui" e abra o arquivo "OpenVPN-2.5.8.msi".
@@ -44,7 +60,7 @@
 
     ![openvpn-user-pass](./just-ignore/images/openvpn/openvpn_user_pass.png)
 
-* Após clicar em "OK" a VPN tentará estabelecer uma conexão com o servidor e após conectar com sucesso você vai receber uma notificação no canto inferior direito da sua tela, informando e o icone da VPN ficará verde.
+* Após clicar em "OK" a VPN tentará estabelecer uma conexão com o servidor, e, após conectar com sucesso, você receberá uma notificação no canto inferior direito da sua tela informando e o icone da VPN ficará verde.
 
     ![openvpn](./just-ignore/images/openvpn/openvpn_connected_successfully.png)
 
