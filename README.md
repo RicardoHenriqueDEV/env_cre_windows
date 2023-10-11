@@ -8,7 +8,7 @@
 * Visual Studio Lib's
 
 ## Clonando este repositório
-* Copie a o endereço deste repositório clicando no botão verde "CODE", escolha entre https e ssh, e copie o link da caixinha abaixo.
+* Copie o endereço deste repositório clicando no botão verde "CODE", escolha entre https ou ssh, e copie o link da caixinha abaixo.
 
     ![github-clone-repo](./just-ignore/images/github/github-clone-repo.png)
 
@@ -22,7 +22,10 @@
 
 * Pressione enter pra rodar o comando, que clonará o repositório para o seu Disco Local C.
 
-    <span style="color: red;font-weight: bold; font-size:20px;">O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referencias a partir daqui não funcionarão !</span>
+    ****
+
+    > [!WARNING]  
+    > O repositório deve estar clonado obrigatoriamente na raiz do Disco Local C, caso não esteja, todas as referências a partir daqui não funcionarão!
 
 ## Instalação e Configuração do OpenVPN
 * Navegue até a pasta "C:\env_cre_windows\open-vpn-gui" e abra o arquivo "OpenVPN-2.5.8.msi".
