@@ -1,3 +1,6 @@
+> [!WARNING]  
+> **ESTE REPOSITÓRIO DEVE ESTAR CLONADO OBRIGATORIAMENTE NA RAIZ DO DISCO LOCAL C, CASO NÃO ESTEJA, TODAS AS REFERÊNCIAS A PARTIR DAQUI NÃO FUNCIONARÃO!**
+
 ## Clonando este repositório
 * Copie o endereço deste repositório clicando no botão verde "CODE", escolha entre https ou ssh, e copie o link da caixinha abaixo.
 
